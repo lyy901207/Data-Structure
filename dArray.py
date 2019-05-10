@@ -1,5 +1,5 @@
 
-class dArray():
+class dArray(object):
 
 	#初始化
 	def __init__(self, cls_obj, capacity=10):
