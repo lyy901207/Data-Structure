@@ -101,10 +101,3 @@ class dArray(object):
 	    if index != -1:
 	        return self.remove(index)
 
-
-def main():
-	arr = dArray(1,2)
-	return arr
-
-if __name__ =='__main__':
-	print(main())
