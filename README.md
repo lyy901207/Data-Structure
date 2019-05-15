@@ -1,1 +1,1 @@
-﻿# Data-Structure## 练习用python实现一些常见数据结构1. 数组：dArray2. 链表：slinkedList，dlinkedlist3. 栈：stack, linkedliststack4. 队列：queue，linkedlistqueue, cyclequeue
+﻿# Data-Structure## 练习用python实现一些常见数据结构1. 数组：dArray2. 链表：slinkedList，dlinkedlist3. 栈：stack, linkedliststack4. 队列：queue，linkedlistqueue, cyclequeue5. 递归：fibonacci； factorial； fullarrange
